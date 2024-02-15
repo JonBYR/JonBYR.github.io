@@ -34,6 +34,8 @@ This was a game created in Unity in the fourth year of university and was anothe
 This was my third year dissertation project, which involved looking at the most common shot sequences between different film genres and then mapping this common shot sequence into Unity, as a tool for those interested in film development to use to visualise what different shots would look like and to potentially suggest a shot sequence they could use for their own films. Note that this dissertation was made in Unity 2021.3.9f1. Issues were found running on later Unity versions. [Repo](https://github.com/JonBYR/Year3Project).
 
 ## Roots Game
+
+![A screenshot from the game made in a team](/assets/RootsGame.png)
 This was done during Global Game Jam 2023 in a two person team, which achieved second place in the University and was done in my third year of university. This game involved experimenting with Procedural Content Generation, of which the algorithm I had developed myself. In this game I also created scripts for a visible timer, level loading, camera perspective, instantiatting new objects, seperate gamemodes, high scores, generating sprites and a pause menu [Repo](https://github.com/JonBYR/RootsGame/tree/main).
 
 ## Game Programming Assignment
