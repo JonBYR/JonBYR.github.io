@@ -6,7 +6,7 @@ Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp 
 ## Superformula-Year 4
 ![Superformula with parameters 3, 4.5, 10 and 10](/assets/SuperformulaWeb.png)
 
-This project used C++ to generate complex shapes using polar coordinates that are generated from a formula devised by Johan Gielis, which can be described in my depth [here](https://en.wikipedia.org/wiki/Superformula). In order to display this formula, SDL was used to render the complex shapes created and involved converting from polar coordinates to SDL coordinates. I'd like to also implement threading in this project to try and reduce the compilation time for more precise intervals. [Repo](https://github.com/JonBYR/Superformula).
+This project used C++ to generate complex shapes using polar coordinates that are generated from a formula devised by Johan Gielis, which can be described in my depth [here](https://en.wikipedia.org/wiki/Superformula). In order to display this formula, SDL was used to render the complex shapes created and involved converting from polar coordinates to SDL coordinates. I'd like to also implement threading in this project to try and reduce the compilation time for more precise intervals of theta. [Repo](https://github.com/JonBYR/Superformula).
 
 ## Fractal Noise-Year 4
 ![Fractal Noise using SFML](/assets/Fractal.png)
@@ -36,12 +36,12 @@ This was my third year dissertation project, which involved looking at the most 
 ## Roots Game-Year 3
 ![A screenshot from the game made in a team](/assets/RootsGame.png)
 
-This was done during Global Game Jam 2023 in a two person team, which achieved second place in the University and was done in my third year of university. This game involved experimenting with procedural content generation with an algorithm I had developed myself. In this game I also created scripts for a visible timer, level loading, camera perspective, instantiatting new objects, seperate gamemodes, high scores, generating sprites and a pause menu. [Repo](https://github.com/JonBYR/RootsGame/tree/main).
+This was done during Global Game Jam 2023 in a two person team, which achieved second place in the University and was done in my third year of university. This game involved experimenting with procedural content generation with an algorithm I had developed myself. In this game I also created scripts for a visible timer, level loading, camera perspective, instantiating new objects, seperate gamemodes, high scores, generating sprites and a pause menu. [Repo](https://github.com/JonBYR/RootsGame/tree/main).
 
 ## Game Programming Assignment-Year 2
 ![A screenshot from the game programming assignment](/assets/GameProgramming.png)
 
-This was a module to create our own game engine using C++ and SDL, as well as creating our own game within this game engine. This assignment helped to further understand the use of pointers and memory management within game development as well as the componenents required in a game engine. [Repo](https://github.com/JonBYR/GameProgrammingAssignment).
+This was a module to create our own game engine using C++ and SDL, as well as creating our own game within this game engine. This assignment helped to further understand the use of pointers and memory management within game development as well as the components required in a game engine. [Repo](https://github.com/JonBYR/GameProgrammingAssignment).
 
 ## Roach Killer-Year 1
 ![Roach Killer](/assets/RoachKiller.png)
