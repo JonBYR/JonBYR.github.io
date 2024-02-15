@@ -9,8 +9,8 @@ Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp 
 This project used C++ to generate complex shapes using polar coordinates that are generated from a formula devised by Johan Gielis, which can be described in my depth [here](https://en.wikipedia.org/wiki/Superformula). In order to display this formula, SDL was used to render the complex shapes created, which involved converting from polar coordinates to SDL coordinates. [Repo](https://github.com/JonBYR/Superformula).
 
 ## Fractal Noise
-
 ![Fractal Noise using SFML](/assets/Fractal.png)
+
 This project was a creation of fractal noise, which is multiple octaves of perlin noise stacked upon one another. This was done in C++ using the SFML library to display the fractal noise. [Repo](https://github.com/JonBYR/Fractal-Noise).
 
 ## Mandelbrot Set
