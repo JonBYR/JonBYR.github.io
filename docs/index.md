@@ -39,6 +39,8 @@ This was my third year dissertation project, which involved looking at the most 
 This was done during Global Game Jam 2023 in a two person team, which achieved second place in the University and was done in my third year of university. This game involved experimenting with Procedural Content Generation, of which the algorithm I had developed myself. In this game I also created scripts for a visible timer, level loading, camera perspective, instantiatting new objects, seperate gamemodes, high scores, generating sprites and a pause menu [Repo](https://github.com/JonBYR/RootsGame/tree/main).
 
 ## Game Programming Assignment
+![A screenshot from the game programming assignment](/assets/GameProgramming.png)
+
 This was a module to create our own game engine using C++ and SDL, as well as creating our own game within this game engine. This assignment helped to further understand the use of pointers and memory management within game development. [Repo](https://github.com/JonBYR/GameProgrammingAssignment).
 
 ## Roach Killer
