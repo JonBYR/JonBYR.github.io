@@ -24,7 +24,7 @@ This project was the implementation of the mandelbrot set, a series of finite co
 This was a game created in Unity for a 24 hour game jam in my fourth year of university, with the theme of RGB. This was a solo project and aim was to better understand the algorithm behind the game Spelunky that caused the game to procedural generate it's levels, which was successfully achieved during the course of the game jam. [Repo](https://github.com/JonBYR/RGB-Game-Jam).
 
 ## 8 Hour Game Jam
-![8 Hour Game](/assets/8HourGameJam.png)
+![8 Hour Game](/assets/8HourGameJam2023.png)
 
 This was a game created in Unity in the fourth year of university and was another solo project. The main aim of this game was to understand how to change the post processing effects of Unity within a script. [Repo](https://github.com/JonBYR/8HourGameJam2023/tree/main).
 
