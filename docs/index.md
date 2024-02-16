@@ -1,10 +1,10 @@
 # About Me
-Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp Games Computing degree at the University of Lincoln and am interested in programming in C++, C#, Python and Java. I have experience using Github and am currently learning Linux. I also have experience using the game engines Unity and Unreal and have participated in game jams throught my studies at university. Below you will find some of the projects I have done and details on what they showcase, as well as the links to their repositories. For all of the repostories for all of my work, you can find them [here](https://github.com/JonBYR).
+Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp Games Computing degree at the University of Lincoln and am interested in programming in C++, C#, Python and Java. I have experience using Github and am currently learning Linux. I also have experience using the game engines Unity and Unreal and have participated in game jams throught my studies at university. Below you will find some of the projects I have created, as well as the links to their repositories. For all of the repositories for all of my work, you can find them [here](https://github.com/JonBYR).
 
 ## Superformula-2024
 ![Superformula with parameters 3, 4.5, 10 and 10](/assets/SuperformulaWeb.png)
 
-This project was done in my fourth year and used C++ to generate complex shapes using polar coordinates that are generated from a formula devised by Johan Gielis, which can be described in my depth [here](https://en.wikipedia.org/wiki/Superformula). In order to display this formula, SDL was used to render the complex shapes created and involved converting from polar coordinates to SDL coordinates. I'd like to also implement threading in this project to try and reduce the compilation time for more precise intervals of theta. [Repo](https://github.com/JonBYR/Superformula).
+This project was done in my fourth year and used C++ to generate complex shapes using polar coordinates that are generated from a formula devised by Johan Gielis, which can be described in my depth [here](https://en.wikipedia.org/wiki/Superformula). In order to display this formula, SDL was used to render the complex shapes created and involved converting from polar coordinates to SDL coordinates. I'd like to also implement threading in this project to try and reduce the compilation time to achieve more precise intervals of theta. [Repo](https://github.com/JonBYR/Superformula).
 
 ## Fractal Noise-2024
 ![Fractal Noise using SFML](/assets/Fractal.png)
@@ -19,7 +19,7 @@ This project was the implementation of the mandelbrot set in my fourth year, a s
 ## RGB Game Jam-2023
 ![Spelunky Type Game](/assets/RGB.gif)
 
-This was a game created in Unity for a 24 hour game jam in my fourth year of university, with the theme of RGB. This was a solo project and aim was to better understand the algorithm behind the game Spelunky that caused the game to procedural generate it's levels, which was successfully achieved during the course of the game jam. Going forward I'd like to improve the AI of the enemy. [Repo](https://github.com/JonBYR/RGB-Game-Jam).
+This was a game created in Unity for a 24 hour game jam in my fourth year of university, with the theme of RGB. This was a solo project and aim was to better understand the algorithm behind the game Spelunky that caused the game to procedurally generate it's levels, which was successfully achieved during the course of the game jam. Going forward I'd like to improve the AI of the enemy. [Repo](https://github.com/JonBYR/RGB-Game-Jam).
 
 ## 8 Hour Game Jam-2023
 ![8 Hour Game](/assets/Blondes.gif)
@@ -34,7 +34,7 @@ This was my third year dissertation project, which involved looking at the most 
 ## Roots Game-2023
 ![A screenshot from the game made in a team](/assets/Tree.gif)
 
-This was done during Global Game Jam 2023 in a two person team, which achieved second place in the University and was done in my third year of university. This game involved experimenting with procedural content generation with an algorithm I had developed myself. In this game I also created scripts for a visible timer, level loading, camera perspective, instantiating new objects, seperate gamemodes, high scores, generating sprites and a pause menu. [Repo](https://github.com/JonBYR/RootsGame/tree/main).
+This was done during Global Game Jam 2023 in a two person team, which achieved second place in the university and was done in my third year of university. This game involved experimenting with procedural content generation with an algorithm I had developed myself. In this game I also created scripts for a visible timer, level loading, camera perspective, instantiating new objects, seperate gamemodes, high scores, generating sprites and a pause menu. [Repo](https://github.com/JonBYR/RootsGame/tree/main).
 
 ## Game Programming Assignment-2022
 ![A screenshot from the game programming assignment](/assets/Frog.gif)
