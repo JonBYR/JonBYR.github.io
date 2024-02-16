@@ -2,7 +2,15 @@
 Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp Games Computing degree at the University of Lincoln and am interested in programming in C++, C#, Python and Java. I also have experience using Github and am currently learning Linux. I also have experience using the game engines Unity and Unreal and have participated in game jams throught my studies at university. Below you will find some of the projects I have done at university and the links to their repositories, however the link to all of the repostories for my work [here](https://github.com/JonBYR).
 
 # Projects
-
+[Superformula](#Superformula-2024)
+[Fractal Noise](#Fractal-Noise-2024)
+[Mandelbrot Set](#Mandelbrot-Set-2024)
+[RGB Game](#RGB-Game-Jam-2023)
+[8 Hour Game](#8-Hour-Game-Jam-2023)
+[Year 3 Project](#Year-3-Project-2023)
+[Roots Game](#Roots-Game-2023)
+[Game Programming](#Game-Programming-Assignment-2022)
+[Roach Killer](#Roach-Killer-2019)
 ## Superformula-2024
 ![Superformula with parameters 3, 4.5, 10 and 10](/assets/SuperformulaWeb.png)
 
@@ -33,7 +41,7 @@ This was a game created in Unity in the fourth year of university and was anothe
 
 This was my third year dissertation project, which involved looking at the most common shot sequences between different film genres and then mapping this common shot sequence into Unity, as a tool for those interested in film development to use to visualise what different shots would look like and to potentially suggest a shot sequence they could use for their own films, by extending the user interface of Unity itself. This is shown by adding a new tools tab with a section genre generation, which opens a new window allowing users to type a genre they would like to use, in this case a comedy sequence. Users can also move the camera in Unity if they wish to experiment with different shots. Note that this dissertation was made in Unity 2021.3.9f1. Issues were found running on later Unity versions. Going forward I would like to implement a machine learning model to generate the common shot sequence rather than a database system. The full dissertation can be downloaded [here](/assets/Year3ProjectPDF.pdf). [Repo](https://github.com/JonBYR/Year3Dissertation).
 
-## Roots Game-Year 3-2023
+## Roots Game-2023
 ![A screenshot from the game made in a team](/assets/Tree.gif)
 
 This was done during Global Game Jam 2023 in a two person team, which achieved second place in the University and was done in my third year of university. This game involved experimenting with procedural content generation with an algorithm I had developed myself. In this game I also created scripts for a visible timer, level loading, camera perspective, instantiating new objects, seperate gamemodes, high scores, generating sprites and a pause menu. [Repo](https://github.com/JonBYR/RootsGame/tree/main).
