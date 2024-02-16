@@ -19,7 +19,7 @@ This project was a creation of fractal noise, which is multiple octaves of perli
 This project was the implementation of the mandelbrot set in my fourth year, a series of finite complex numbers that do not converge to infinity via the formula Zn+1 = Zn + C. When displayed on an argand diagram, it displays a fractal pattern as parts of the set look like smaller versions of the entire set. The complex numbers were done in C++ without the complex library to further understand how the set works and rendered in SDL. [Repo](https://github.com/JonBYR/MandelbrotSet).
 
 ## RGB Game Jam-2023
-![Spelunky Type Game](/assets/Rgb.mp4)
+![Spelunky Type Game](/assets/RGB.gif)
 
 This was a game created in Unity for a 24 hour game jam in my fourth year of university, with the theme of RGB. This was a solo project and aim was to better understand the algorithm behind the game Spelunky that caused the game to procedural generate it's levels, which was successfully achieved during the course of the game jam. Going forward I'd like to improve the AI of the enemy. [Repo](https://github.com/JonBYR/RGB-Game-Jam).
 
