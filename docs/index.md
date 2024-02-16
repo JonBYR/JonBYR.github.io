@@ -34,16 +34,16 @@ This was a game created in Unity in the fourth year of university and was anothe
 This was my third year dissertation project, which involved looking at the most common shot sequences between different film genres and then mapping this common shot sequence into Unity, as a tool for those interested in film development to use to visualise what different shots would look like and to potentially suggest a shot sequence they could use for their own films, by extending the user interface of Unity itself. This is shown by adding a new tools tab with a section genre generation, which opens a new window allowing users to type a genre they would like to use, in this case a comedy sequence. Users can also move the camera in Unity if they wish to experiment with different shots. Note that this dissertation was made in Unity 2021.3.9f1. Issues were found running on later Unity versions. Going forward I would like to implement a machine learning model to generate the common shot sequence rather than a database system. The full dissertation can be downloaded [here](/assets/Year3ProjectPDF.pdf). [Repo](https://github.com/JonBYR/Year3Dissertation).
 
 ## Roots Game-Year 3-2023
-![A screenshot from the game made in a team](/assets/RootsGame.png)
+![A screenshot from the game made in a team](/assets/Tree.gif)
 
 This was done during Global Game Jam 2023 in a two person team, which achieved second place in the University and was done in my third year of university. This game involved experimenting with procedural content generation with an algorithm I had developed myself. In this game I also created scripts for a visible timer, level loading, camera perspective, instantiating new objects, seperate gamemodes, high scores, generating sprites and a pause menu. [Repo](https://github.com/JonBYR/RootsGame/tree/main).
 
 ## Game Programming Assignment-2022
-![A screenshot from the game programming assignment](/assets/GameProgramming.png)
+![A screenshot from the game programming assignment](/assets/Frog.gif)
 
-This was a module in my second year of university to create our own game engine using C++ and SDL, as well as creating our own game within this game engine. This assignment helped to further understand the use of pointers and memory management within game development as well as the components required in a game engine. [Repo](https://github.com/JonBYR/GameProgrammingAssignment).
+This was a module in my second year of university to create our own game engine using C++ and SDL, as well as creating our own game within this game engine. This assignment helped to further understand the use of pointers and memory management within game development as well as the components required in a game engine. The game itself has a score that increases every second, however green frogs will double the current score, while red frogs set the score back to zero. [Repo](https://github.com/JonBYR/GameProgrammingAssignment).
 
 ## Roach Killer-2019
-![Roach Killer](/assets/RoachKiller.png)
+![Roach Killer](/assets/Roach.gif)
 
-This was the first game jam that I participated in, which was in my first year of university. This was a 24 hour jam and was a solo project, but it helped me to understand the essential concepts in game development such as player and enemy movement and UI features such as menus. [Repo](https://github.com/JonBYR/Roach-Killer).
+This was the first game jam that I participated in, which was in my first year of university. This was a 24 hour jam and was a solo project, but it helped me to understand the essential concepts in game development such as player and enemy movement as well as Quarternions and UI features such as menus. [Repo](https://github.com/JonBYR/Roach-Killer).
