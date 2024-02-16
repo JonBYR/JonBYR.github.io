@@ -1,5 +1,5 @@
 # About Me
-Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp Games Computing degree at the University of Lincoln and am interested in programming in C++, C#, Python and Java. I also have experience using Github and am currently learning Linux. I also have experience using the game engines Unity and Unreal and have particpated in game jams throught my studies at university. Below you will find some of the projects I have done at university and the links to their repositories, however the link to all of the repostories for my work [here](https://github.com/JonBYR).
+Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp Games Computing degree at the University of Lincoln and am interested in programming in C++, C#, Python and Java. I also have experience using Github and am currently learning Linux. I also have experience using the game engines Unity and Unreal and have participated in game jams throught my studies at university. Below you will find some of the projects I have done at university and the links to their repositories, however the link to all of the repostories for my work [here](https://github.com/JonBYR).
 
 # Projects
 
@@ -16,7 +16,7 @@ This project was a creation of fractal noise, which is multiple octaves of perli
 ## Mandelbrot Set-2024
 ![Mandelbrot Set](/assets/Mandelbrot.png)
 
-This project was the implementation of the mandelbrot set in my fourth year, a series of finite complex numbers that do not converge to infinity via the formula Zn+1 = Zn + C. When displayed on an argand diagram, it displays a fractal pattern as parts of the set look like smaller versions of the entire set. The complex numbers were done in C++ without the complex library to further understand how the set works and rendered in SDL. [Repo](https://github.com/JonBYR/MandelbrotSet).
+This project was the implementation of the mandelbrot set in my fourth year, a series of finite complex numbers that do not converge to infinity via the formula Zn+1 = Zn^2 + C. When displayed on an argand diagram, it displays a fractal pattern as parts of the set look like smaller versions of the entire set. The complex numbers were done in C++ without the complex library to further understand how the set works and rendered in SDL. [Repo](https://github.com/JonBYR/MandelbrotSet).
 
 ## RGB Game Jam-2023
 ![Spelunky Type Game](/assets/RGB.gif)
