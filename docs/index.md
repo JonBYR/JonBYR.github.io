@@ -1,16 +1,6 @@
 # About Me
 Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp Games Computing degree at the University of Lincoln and am interested in programming in C++, C#, Python and Java. I also have experience using Github and am currently learning Linux. I also have experience using the game engines Unity and Unreal and have participated in game jams throught my studies at university. Below you will find some of the projects I have done at university and the links to their repositories, however the link to all of the repostories for my work [here](https://github.com/JonBYR).
 
-# Projects
-[Superformula](#Superformula-2024)
-[Fractal Noise](#Fractal-Noise-2024)
-[Mandelbrot Set](#Mandelbrot-Set-2024)
-[RGB Game](#RGB-Game-Jam-2023)
-[8 Hour Game](#8-Hour-Game-Jam-2023)
-[Year 3 Project](#Year-3-Project-2023)
-[Roots Game](#Roots-Game-2023)
-[Game Programming](#Game-Programming-Assignment-2022)
-[Roach Killer](#Roach-Killer-2019)
 ## Superformula-2024
 ![Superformula with parameters 3, 4.5, 10 and 10](/assets/SuperformulaWeb.png)
 
