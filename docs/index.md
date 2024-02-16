@@ -19,19 +19,19 @@ This project was a creation of fractal noise, which is multiple octaves of perli
 This project was the implementation of the mandelbrot set in my fourth year, a series of finite complex numbers that do not converge to infinity via the formula Zn+1 = Zn + C. When displayed on an argand diagram, it displays a fractal pattern as parts of the set look like smaller versions of the entire set. The complex numbers were done in C++ without the complex library to further understand how the set works and rendered in SDL. [Repo](https://github.com/JonBYR/MandelbrotSet).
 
 ## RGB Game Jam-2023
-![Spelunky Type Game](/assets/RGBGameScreenshot.png)
+![Spelunky Type Game](/assets/Rgb.mp4)
 
 This was a game created in Unity for a 24 hour game jam in my fourth year of university, with the theme of RGB. This was a solo project and aim was to better understand the algorithm behind the game Spelunky that caused the game to procedural generate it's levels, which was successfully achieved during the course of the game jam. Going forward I'd like to improve the AI of the enemy. [Repo](https://github.com/JonBYR/RGB-Game-Jam).
 
 ## 8 Hour Game Jam-2023
-![8 Hour Game](/assets/8HourGameJam2023.png)
+![8 Hour Game](/assets/Blondes.gif)
 
-This was a game created in Unity in the fourth year of university and was another solo project. The main aim of this game was to understand how to change the post processing effects of Unity within a script. [Repo](https://github.com/JonBYR/8HourGameJam2023/tree/main).
+This was a game created in Unity in the fourth year of university and was another solo project. The main aim of this game was to understand how to change the post processing effects of Unity within a script and how users can input text into Unity. Players needed to try and guess a password to access a God mode cheat while also avoiding the blonde haired enemies. [Repo](https://github.com/JonBYR/8HourGameJam2023/tree/main).
 
 ## Year 3 Project-2023
 ![A gif of the project in action](/assets/Year3Video.gif)
 
-This was my third year dissertation project, which involved looking at the most common shot sequences between different film genres and then mapping this common shot sequence into Unity, as a tool for those interested in film development to use to visualise what different shots would look like and to potentially suggest a shot sequence they could use for their own films, by extending the user interface of Unity itself. Note that this dissertation was made in Unity 2021.3.9f1. Issues were found running on later Unity versions. Going forward I would like to implement a machine learning model to generate the common shot sequence rather than a database system. The full dissertation can be downloaded [here](/assets/Year3ProjectPDF.pdf). [Repo](https://github.com/JonBYR/Year3Dissertation).
+This was my third year dissertation project, which involved looking at the most common shot sequences between different film genres and then mapping this common shot sequence into Unity, as a tool for those interested in film development to use to visualise what different shots would look like and to potentially suggest a shot sequence they could use for their own films, by extending the user interface of Unity itself. This is shown by adding a new tools tab with a section genre generation, which opens a new window allowing users to type a genre they would like to use, in this case a comedy sequence. Users can also move the camera in Unity if they wish to experiment with different shots. Note that this dissertation was made in Unity 2021.3.9f1. Issues were found running on later Unity versions. Going forward I would like to implement a machine learning model to generate the common shot sequence rather than a database system. The full dissertation can be downloaded [here](/assets/Year3ProjectPDF.pdf). [Repo](https://github.com/JonBYR/Year3Dissertation).
 
 ## Roots Game-Year 3-2023
 ![A screenshot from the game made in a team](/assets/RootsGame.png)
