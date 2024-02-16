@@ -29,7 +29,7 @@ This was a game created in Unity for a 24 hour game jam in my fourth year of uni
 This was a game created in Unity in the fourth year of university and was another solo project. The main aim of this game was to understand how to change the post processing effects of Unity within a script. [Repo](https://github.com/JonBYR/8HourGameJam2023/tree/main).
 
 ## Year 3 Project-2023
-![A screenshot of the Unity project showing a close up of a wstern](/assets/Year3Project.png)
+![A gif of the project in action](/assets/Year3Video.gif)
 
 This was my third year dissertation project, which involved looking at the most common shot sequences between different film genres and then mapping this common shot sequence into Unity, as a tool for those interested in film development to use to visualise what different shots would look like and to potentially suggest a shot sequence they could use for their own films, by extending the user interface of Unity itself. Note that this dissertation was made in Unity 2021.3.9f1. Issues were found running on later Unity versions. Going forward I would like to implement a machine learning model to generate the common shot sequence rather than a database system. The full dissertation can be downloaded [here](/assets/Year3ProjectPDF.pdf). [Repo](https://github.com/JonBYR/Year3Dissertation).
 
