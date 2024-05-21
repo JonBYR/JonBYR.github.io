@@ -1,15 +1,20 @@
 # About Me
 Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp Games Computing degree at the University of Lincoln and am interested in programming in C++, C#, Python and Java. I have experience using Github and am currently learning Linux. I also have experience using the game engines Unity and Unreal and have participated in game jams throught my studies at university. Below you will find some of the projects I have created, as well as the links to their repositories. For all of the repositories for all of my work, you can find them [here](https://github.com/JonBYR).
 
+## QuadTree-2024
+![The fully created QuadTree shown in SDL](/assets/QuadTree.png)
+
+This was the creation of a QuadTree, which can be used in collision detection to reduce the number of collision calculations, by splitting the scene into seperate quadrants, meaning that the collision checks between particles only need to be checked between particles in each quadrant, rather than for all particles in the entire scene. This was visualized in SDL and converted from a tutorial using Javascript into C++ code. The repo is shown [here](https://github.com/JonBYR/QuadTree-For-Collisions).
+
 ## MComp Dissertation-2024
 ![A gif to show the MComp experimental game](/assets/MCompDiss.gif)
 
-This was my MComp dissertation project, which involved creating two rhythm games, one as a control game that incorporates only tempo as a gameplay mechanic, and one experimental game that uses tempo, volume and key together, with key affecting colour and volume affecting enemy spawning by having more difficult enemies. The aim was to compare both games to see if the use of more musical features other than tempo could lead to more immersive rhythm games, with both rhythm games being inspired by the game Crypt of the NecroDancer. Furthermore, seperate python code was used to access Spotify's API to extract JSON files containing the song information required for the games. Going forward this game will be refined to have a better visual cue than the slider in the bottom right corner. The full dissertation can be found [here]
+This was my MComp dissertation project, which involved creating two rhythm games, one as a control game that incorporates only tempo as a gameplay mechanic, and one experimental game that uses tempo, volume and key together, with key affecting colour and volume affecting enemy spawning by having more difficult enemies. The aim was to compare both games to see if the use of more musical features other than tempo could lead to more immersive rhythm games, with both rhythm games being inspired by the game Crypt of the NecroDancer. Furthermore, seperate python code was used to access Spotify's API to extract JSON files containing the song information required for the games. Going forward this game will be refined to have a better visual cue than the slider in the bottom right corner. The full dissertation can be read [here](/assets/MCompDiss.pdf) with the control repo shown [here](https://github.com/JonBYR/Year4ProjectControlGame) and the experimental game is shown [here](https://github.com/JonBYR/Year4Project). 
 
 ## Superformula-2024
 ![Superformula with parameters 3, 4.5, 10 and 10](/assets/SuperformulaWeb.png)
 
-This project was done in my fourth year and used C++ to generate complex shapes using polar coordinates that are generated from a formula devised by Johan Gielis, which can be described in my depth [here](https://en.wikipedia.org/wiki/Superformula). In order to display this formula, SDL was used to render the complex shapes created and involved converting from polar coordinates to SDL coordinates. I'd like to also implement threading in this project to try and reduce the compilation time to achieve more precise intervals of theta. [Repo](https://github.com/JonBYR/Superformula).
+This project was done in my fourth year and used C++ to generate complex shapes using polar coordinates that are generated from a formula devised by Johan Gielis, which can be described in more depth [here](https://en.wikipedia.org/wiki/Superformula). In order to display this formula, SDL was used to render the complex shapes created and involved converting from polar coordinates to SDL coordinates. I'd like to also implement threading in this project to try and reduce the compilation time to achieve more precise intervals of theta. [Repo](https://github.com/JonBYR/Superformula).
 
 ## Fractal Noise-2024
 ![Fractal Noise using SFML](/assets/Fractal.png)
