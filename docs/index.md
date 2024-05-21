@@ -1,6 +1,11 @@
 # About Me
 Hello, my name is Jonathan Byrne. I am a currently in the last year of my MComp Games Computing degree at the University of Lincoln and am interested in programming in C++, C#, Python and Java. I have experience using Github and am currently learning Linux. I also have experience using the game engines Unity and Unreal and have participated in game jams throught my studies at university. Below you will find some of the projects I have created, as well as the links to their repositories. For all of the repositories for all of my work, you can find them [here](https://github.com/JonBYR).
 
+## MComp Dissertation-2024
+![A gif to show the MComp experimental game](/assets/MCompDiss.gif)
+
+This was my MComp dissertation project, which involved creating two rhythm games, one as a control game that incorporates only tempo as a gameplay mechanic, and one experimental game that uses tempo, volume and key together, with key affecting colour and volume affecting enemy spawning by having more difficult enemies. The aim was to compare both games to see if the use of more musical features other than tempo could lead to more immersive rhythm games, with both rhythm games being inspired by the game Crypt of the NecroDancer. Furthermore, seperate python code was used to access Spotify's API to extract JSON files containing the song information required for the games. Going forward this game will be refined to have a better visual cue than the slider in the bottom right corner. The full dissertation can be found [here]
+
 ## Superformula-2024
 ![Superformula with parameters 3, 4.5, 10 and 10](/assets/SuperformulaWeb.png)
 
