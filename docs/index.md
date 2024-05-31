@@ -31,10 +31,10 @@ This project was the implementation of the mandelbrot set in my fourth year, a s
 
 This was a game created in Unity for a 24 hour game jam in my fourth year of university, with the theme of RGB. This was a solo project and aim was to better understand the algorithm behind the game Spelunky that caused the game to procedurally generate it's levels, which was successfully achieved during the course of the game jam. Going forward I'd like to improve the AI of the enemy. [Repo](https://github.com/JonBYR/RGB-Game-Jam).
 
-## 8 Hour Game Jam-2023
+## 8 Hour Game Jam-2023/2024
 ![8 Hour Game](/assets/Blondes.gif)
 
-This was a game created in Unity in the fourth year of university and was another solo project. The main aim of this game was to understand how to change the post processing effects of Unity within a script and how users can input text into Unity. Players needed to try and guess a password to access a God mode cheat while also avoiding the blonde haired enemies. [Repo](https://github.com/JonBYR/8HourGameJam2023/tree/main).
+This was a game created in Unity in the fourth year of university and was another solo project. The main aim of this game was to understand how to change the post processing effects of Unity within a script and how users can input text into Unity. Players needed to try and guess a password to access a God mode cheat while also avoiding the blonde haired enemies. This project was then updated for the Arcadia Game Jam to work for the university Arcade machines using the SDK for these machines, as well as fixing various bugs. This game is now playable as a result on these uni machines. [Repo](https://github.com/JonBYR/8HourGameJam2023/tree/main).
 
 ## Year 3 Project-2023
 ![A gif of the project in action](/assets/Year3Video.gif)
