@@ -1,4 +1,4 @@
-<video width = "1280" height = "720" controls loop = "" muted = "" autoplay = "">
+<video width = "1280" height = "720" controls loop = "">
   <source src = "https://github.com/JonBYR/JonBYR.github.io/raw/refs/heads/main/docs/assets/Portfoliovideofixed2.mp4">
 </video>
 
