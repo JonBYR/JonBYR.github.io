@@ -1,4 +1,4 @@
-(/assets/Portfoliovideofixed2.mp4)
+![Video to show all my various projects](/assets/Portfoliovideofixed2.mp4)
 
 # About Me
 Hello, my name is Jonathan Byrne. I have recently finished my last year of my MComp Games Computing degree at the University of Lincoln and am interested in programming in C++, C#, Python and Java. I have experience using Github and am currently developing a game for the Playdate system. I also have experience using the game engines Unity and Unreal and have participated in game jams throught my studies at university. Below you will find some of the projects I have created, as well as the links to their repositories. For all of the repositories for all of my work, you can find them [here](https://github.com/JonBYR).
