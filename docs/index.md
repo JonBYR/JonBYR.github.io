@@ -8,6 +8,8 @@ Hello, my name is Jonathan Byrne. I have recently completed the last year of my 
 ## Captured Cuisine-Ongoing
 ![The current project on the Playdate](/assets/playdatedemo.gif)
 
+This is an ongoing project that I am working on with fellow students, graduates and lecturers from the University of Lincoln. I have enjoyed learning a completely new language in Lua and using a novel input system in the Playdate's crank system as well as being able to liason with my fellow team members in different disciplines such as the art team. Within this project I have been responsible for developing the functionality behind the main menu and transitioning between each scene, as well as the functionality for the opening comic cutscene and different minigames for plating, sweet talking and firing, which has required using an object oriented approach or the use of parsing information from JSON files. The next steps for this project involve incorporating the sprites into each minigame as well as polishing a new errors that occur, such as the comic not immediately moving to the next scene. The repo is shown [here](https://github.com/Vesper-Works/CapturedCuisine).
+
 ## QuadTree-2024
 ![The fully created QuadTree shown in SDL](/assets/QuadTree.png)
 
