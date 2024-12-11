@@ -10,7 +10,7 @@ Please find below more information on my projects.\
 [QuadTree](#markdown-header-QuadTree-2024)\
 [MComp Dissertation](#markdown-header-MComp-Dissertation-2024)\
 [Superformula](#markdown-header-Superformula-2024)\
-[Fractal Noise](#markdown-header-Fractal_Noise-2024)\
+[Fractal Noise](#markdown-header-Fractal-Noise-2024)\
 [Mandelbrot Set](#markdown-header-Mandelbrot_Set-2024)\
 [RGB Game Jam](#markdown-header-RGB-Game-Jam-2023)\
 [8 Hour Game Jam](#markdown-header-8-Hour-Game-Jam-2023/2024)\
