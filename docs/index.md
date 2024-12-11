@@ -5,6 +5,9 @@
 # About Me
 Hello, my name is Jonathan Byrne. I have recently completed the last year of my MComp Games Computing degree at the University of Lincoln. I am interested in programming in C++, C#, Python and Java. I have experience using Github and am currently developing a game for the Playdate system. I also have experience using the game engines Unity and Unreal and have participated in game jams during my studies at university. Below you will find some of the projects I have created, together with the links to their repositories. You can find the repositories for all my work [here](https://github.com/JonBYR).
 
+## Captured Cuisine-Ongoing
+![The current project on the Playdate](/assets/playdatedemo.gif)
+
 ## QuadTree-2024
 ![The fully created QuadTree shown in SDL](/assets/QuadTree.png)
 
