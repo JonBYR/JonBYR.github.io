@@ -13,7 +13,7 @@ Please find below more information on my projects.\
 [Fractal Noise](#fractal-noise-2024)\
 [Mandelbrot Set](#mandelbrot-set-2024)\
 [RGB Game Jam](#rgb-game-jam-2023)\
-[8 Hour Game Jam](#8-hour-game-jam-2023/2024)\
+[Arcade Game](#arcade-game-2023/2024)\
 [Year 3 Dissertation](#year-3-dissertation-2023)\
 [Roots Game](#roots-game-2023)
 
@@ -52,7 +52,7 @@ This project demonstrates the implementation of the mandelbrot set, a series of 
 
 This was a game with the theme of RGB created in Unity for a 24 hour game jam. It was a solo project with the aim of better understanding the algorithm behind the game Spelunky which causes the game to procedurally generate its levels, as I was interested in learning different methods of procedural content generation. This was done by following an online tutorial. It was initially difficult to understand the code but by rewriting the code line by line I began to understand the inner complexities of the algorithm and found this particularly rewarding. Going forward I'd like to improve the AI of the enemy by using a pathfinding algorithm such as A*. [Repo](https://github.com/JonBYR/RGB-Game-Jam).
 
-## 8 Hour Game Jam-2023/2024
+## Arcade Game-2023/2024
 ![8 Hour Game](/assets/Blondes.gif)
 
 This was a game created in Unity and was another solo project. The main aims of this game were to understand how to change the post processing effects of Unity within a script and also to understand how users could input text into Unity during gameplay. The game objective was for players to try and guess a password to access a God mode cheat whilst also avoiding the enemies. This project was then adapted using an SDK package so that it would work on the university Arcade machines. The opportunity was also taken to erradicate various bugs. One example was, if a player picked up a tile and launched it at an enemy when in God mode, the tile would launch from a different position to the player. This was rectified by making the tile a child of the player. This game is now available to be played on the university arcade machines. [Repo](https://github.com/JonBYR/8HourGameJam2023/tree/main).
