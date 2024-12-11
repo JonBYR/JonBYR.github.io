@@ -6,16 +6,16 @@
 Hello, my name is Jonathan Byrne. I have recently completed the last year of my MComp Games Computing degree at the University of Lincoln. I am interested in programming in C++, C#, Python and Java. I have experience using Github and am currently developing a game for the Playdate system. I also have experience using the game engines Unity and Unreal and have participated in game jams during my studies at university. Below you will find some of the projects I have created, together with the links to their repositories. You can find the repositories for all my work [here](https://github.com/JonBYR).
 Please find below more information on my projects.\
 
-[Captured Cusine](##-Captured-Cuisine-Ongoing)\
-[QuadTree](##-QuadTree-2024)\
-[MComp Dissertation](##-MComp-Dissertation-2024)\
-[Superformula](##-Superformula-2024)\
-[Fractal Noise](##-Fractal_Noise-2024)\
-[Mandelbrot Set](##-Mandelbrot_Set-2024)\
-[RGB Game Jam](##-RGB-Game-Jam-2023)\
-[8 Hour Game Jam](##-8-Hour-Game-Jam-2023/2024)\
-[Year 3 Dissertation](##-Year-3-Dissertation-2023)\
-[Roots Game](##-Roots-Game-2023)
+[Captured Cusine](#markdown-header-Captured-Cuisine-Ongoing)\
+[QuadTree](#markdown-header-QuadTree-2024)\
+[MComp Dissertation](#markdown-header-MComp-Dissertation-2024)\
+[Superformula](#markdown-header-Superformula-2024)\
+[Fractal Noise](#markdown-header-Fractal_Noise-2024)\
+[Mandelbrot Set](#markdown-header-Mandelbrot_Set-2024)\
+[RGB Game Jam](#markdown-header-RGB-Game-Jam-2023)\
+[8 Hour Game Jam](#markdown-header-8-Hour-Game-Jam-2023/2024)\
+[Year 3 Dissertation](#markdown-header-Year-3-Dissertation-2023)\
+[Roots Game](#markdown-header-Roots-Game-2023)
 
 ## Captured Cuisine-Ongoing
 ![The current project on the Playdate](/assets/playdatedemo.gif)
