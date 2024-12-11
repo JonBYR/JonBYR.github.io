@@ -1,4 +1,4 @@
-<video width = "1280" height = "720" controls loop = "">
+<video width = "100%" controls loop = "">
   <source src = "https://github.com/JonBYR/JonBYR.github.io/raw/refs/heads/main/docs/assets/Video2fixed.mp4">
 </video>
 
