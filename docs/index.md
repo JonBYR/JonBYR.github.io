@@ -5,7 +5,17 @@
 # About Me
 Hello, my name is Jonathan Byrne. I have recently completed the last year of my MComp Games Computing degree at the University of Lincoln. I am interested in programming in C++, C#, Python and Java. I have experience using Github and am currently developing a game for the Playdate system. I also have experience using the game engines Unity and Unreal and have participated in game jams during my studies at university. Below you will find some of the projects I have created, together with the links to their repositories. You can find the repositories for all my work [here](https://github.com/JonBYR).
 Please find below more information on my projects.
-[Captured Cusine](##Captured_Cuisine-Ongoing)
+
+[Captured Cusine](##_Captured_Cuisine-Ongoing)
+[QuadTree](##_QuadTree-2024)
+[MComp Dissertation](##_MComp_Dissertation-2024)
+[Superformula](##_Superformula-2024)
+[Fractal Noise](##_Fractal_Noise-2024)
+[Mandelbrot Set](##_Mandelbrot_Set-2024)
+[RGB Game Jam](##_RGB_Game_Jam_2023)
+[8 Hour Game Jam-2023/2024](##_8_Hour_Game_Jam-2023/2024)
+[Year 3 Dissertation](##_Year_3_Dissertation-2023)
+[Roots Game](##_Roots_Game-2023)
 
 ## Captured Cuisine-Ongoing
 ![The current project on the Playdate](/assets/playdatedemo.gif)
@@ -47,7 +57,7 @@ This was a game with the theme of RGB created in Unity for a 24 hour game jam. I
 
 This was a game created in Unity and was another solo project. The main aims of this game were to understand how to change the post processing effects of Unity within a script and also to understand how users could input text into Unity during gameplay. The game objective was for players to try and guess a password to access a God mode cheat whilst also avoiding the enemies. This project was then adapted using an SDK package so that it would work on the university Arcade machines. The opportunity was also taken to erradicate various bugs. One example was, if a player picked up a tile and launched it at an enemy when in God mode, the tile would launch from a different position to the player. This was rectified by making the tile a child of the player. This game is now available to be played on the university arcade machines. [Repo](https://github.com/JonBYR/8HourGameJam2023/tree/main).
 
-## Year 3 Project-2023
+## Year 3 Dissertation-2023
 ![A gif of the project in action](/assets/Year3Video.gif)
 
 This was my third year dissertation project which involved looking at the most common shot sequences in different film genres and then importing this common shot sequence into Unity. The idea was for this to be a tool for those interested in film development, used to visualise how different shots would appear on screen, potentially suggesting a shot sequence that could be used for their own films. As I have a great interest in film, I was very keen to explore how games technologies could be incorporated into the film industry. The project required learning how to extend the user interface of Unity itself, shown by adding a new tools tab with a section genre generation, opening a new window to allow users to type the genre they would like to visualise. Users are also able to move the camera in Unity should they wish to experiment with different shots. This project also allowed me to learn and implement the software framework MVC (Model View Controller). Please note that this dissertation was made in Unity 2021.3.9f1 and issues have been discovered when running on later Unity versions. Going forward I would like to implement a machine learning model to generate the common shot sequence rather than utilising a database system. The full dissertation can be downloaded [here](/assets/Year3ProjectPDF.pdf). [Repo](https://github.com/JonBYR/Year3Dissertation).
