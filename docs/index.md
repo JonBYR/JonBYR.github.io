@@ -7,6 +7,7 @@ Hello, my name is Jonathan Byrne. I am a 2024 graduate from the MComp Games Comp
 Please find below more information on my projects.
 
 [Captured Cusine](#captured-cuisine-ongoing)\
+[Boat Game](#boat-game-2025)\
 [QuadTree](#quadtree-2024)\
 [MComp Dissertation](#mcomp-dissertation-2024)\
 [Superformula](#superformula-2024)\
@@ -21,6 +22,13 @@ Please find below more information on my projects.
 ![The current project on the Playdate](/assets/playdatedemo.gif)
 
 This is an ongoing project that I am working on with fellow students, graduates and lecturers from the University of Lincoln. I have enjoyed learning a completely new language in Lua and using a novel input system in Playdate's crank system. I have been responsible for developing the functionality behind the main menu and transitioning between each scene for this project. I have also implemented the functionality for the opening comic cutscene and the minigames for plating, sweet talking and wood-firing. These minigames have required the use of either an object oriented approach or to parse information from JSON files. The next steps for this project involve incorporating the sprites into each minigame as well as erradicating existing errors that have become apparent, such as the comic not immediately moving to the next scene. I am enjoying working on this project and liaising with team members in different disciplines such as the art team. We have regular meetings to discuss the progress of the project and deciding on next steps. The repo is shown [here](https://github.com/Vesper-Works/CapturedCuisine). [Back to menu](#about-me)
+
+## Boat Game-2025
+<video width = "100%" controls loop = "">
+  <source src = "https://github.com/JonBYR/JonBYR.github.io/raw/refs/heads/main/docs/assets/Boatgamedemo.mp4">
+</video>
+
+This was a 3D game made in Unity to learn more about game concepts. The enemy ships seen in the video move across a set path, which is determined by bezier curves, which is a set of linear interpolations across a number of vectors, with the resulting vector from these interpolations determined by the scalar factor time (t). It also allowed me to learn more about how to perform specific physics operations, such as bouyancy on the player boat, where in which a number of pivots were needed on the player itself to keep the boat afloat, with an upwards force applied to any pivot that went underneath the water. It also encouraged me to think of how to make the player boat realistic, for example, having the boat reach a terminal velocity where the drag force of the water matches the force applied to the boat from its acceleration. I also learnt Unity's new input system package. The repo for the code is shown [here](https://github.com/JonBYR/BoatGame) and also contains the build for the project in the releases section. [Back to menu](#about-me)
 
 ## QuadTree-2024
 ![The fully created QuadTree shown in SDL](/assets/QuadTree.png)
